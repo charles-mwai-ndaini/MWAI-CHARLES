@@ -1,0 +1,63 @@
+#king{
+  text-transform: none;
+color: teal
+}
+#king{
+  text-align: center;
+}
+#CHARLES{
+  text-align: center;
+}
+#ndaini{
+  text-align: center;
+  color: orange;
+  text-shadow: 2px 2px 2px grey;
+}
+h1::first-letter {
+  font-size: 200%;
+  color: #008080;
+}
+.kel{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 500px
+}
+.kel:hover{transform: scale(1.1);
+}
+.skills{text-align: center;
+color: orange;
+list-style-type: none
+}
+.skills:hover {
+  color:teal;
+}
+.button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px
+}
+.button{
+  background-color:orange;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px; color: teal;
+
+}
+#idea{
+  text-align: center;
+  color: teal
+}
+h1::first-letter{
+  font-size: 200px
+  color:teal;
+}
+.button:hover{
+  background-color:aqua
+}
+#luh{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
